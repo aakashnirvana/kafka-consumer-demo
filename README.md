@@ -77,9 +77,6 @@ Kafka Java Client API
 
 Kafka Quickstart Guide
 
-📄 License
-This project is open-source and available for educational and demo purposes.
 
-Made with ☕ and Kafka by [Aakash Nirvana](https://github.com/aakashnirvana)
 
 
